@@ -1,0 +1,5 @@
+Sinal 1: componentes de frequencia estimadas = 100.00 Hz e 500.00 Hz
+Sinal 2: componentes de frequencia estimadas = 200.00 Hz e 1000.00 Hz
+Sinal 3: componentes de frequencia estimadas = 300.00 Hz e 1500.00 Hz
+Sinal 4: componentes de frequencia estimadas = 400.00 Hz e 2000.00 Hz
+Sinal 5: componentes de frequencia estimadas = 500.00 Hz e 2500.00 Hz
